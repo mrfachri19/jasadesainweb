@@ -1,8 +1,8 @@
-import React, { Component } from "react";
+import React from "react";
 import Footer from "./components/Footer";
 import "./App.css";
 // import banner from "../../../assets/image/Group 14.png";
-import { Button, Col, Row, Container } from "react-bootstrap";
+import { Col, Row, Container } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 
 const Home = () => {
